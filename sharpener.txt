@@ -4,7 +4,8 @@ person 2/
 person 3
 person 4
 person 5
-
+adult 1
+adult 2
 
 
 
